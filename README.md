@@ -17,7 +17,7 @@ The main objective of this project is to build a predictive model, which predict
 3. Data Description:
 
  The dataset provides the information about following features of mobile phones.
-    - Data Description -
+
     - Battery_power : Total energy a battery can store in one time measured in mAh
     - Blue : Has bluetooth or not
     - Clock_speed : speed at which microprocessor executes instructions
