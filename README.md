@@ -3,8 +3,8 @@
 1. Introduction
 2. Problem Statement
 3. data Desctiption
-4. Conclusiona
-
+4. Conclusions
+****
 
 1. Introduction:
 
